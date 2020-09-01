@@ -1,4 +1,4 @@
-"# The-Farmer-s-Market"
+# The-Farmer-Market
 
 Provide the inputs in input.txt and add each test case in separate line.
 
